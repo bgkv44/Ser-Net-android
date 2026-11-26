@@ -96,10 +96,10 @@ Android has a single tunnel type — TUN. There is no “system proxy” mode li
 
 | File | ABI | Who it is for |
 |---|---|---|
-| `Ser-Net_1.0.0-beta.1.7_arm64-v8a.apk` | `arm64-v8a` | almost every phone and tablet since 2017 |
-| `Ser-Net_1.0.0-beta.1.7_armeabi-v7a.apk` | `armeabi-v7a` | older 32-bit devices |
-| `Ser-Net_1.0.0-beta.1.7_x86.apk` | `x86` | 32-bit emulators |
-| `Ser-Net_1.0.0-beta.1.7_x86_64.apk` | `x86_64` | emulators and x86 tablets |
+| `Ser-Net_1.0.0-beta.1.6_arm64-v8a.apk` | `arm64-v8a` | almost every phone and tablet since 2017 |
+| `Ser-Net_1.0.0-beta.1.6_armeabi-v7a.apk` | `armeabi-v7a` | older 32-bit devices |
+| `Ser-Net_1.0.0-beta.1.6_x86.apk` | `x86` | 32-bit emulators |
+| `Ser-Net_1.0.0-beta.1.6_x86_64.apk` | `x86_64` | emulators and x86 tablets |
 
    Not sure about your ABI? Pick `arm64-v8a`.
 3. Allow installation from this source when Android asks.
